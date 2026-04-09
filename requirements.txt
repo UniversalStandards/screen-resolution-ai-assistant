@@ -1,0 +1,5 @@
+anthropic>=0.40.0
+customtkinter>=5.2.0
+pywin32>=306
+Pillow>=10.0.0
+packaging>=24.0
